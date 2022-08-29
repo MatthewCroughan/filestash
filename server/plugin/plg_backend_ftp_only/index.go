@@ -1,7 +1,7 @@
 package plg_backend_ftp_only
 
 import (
-	"crypto/tls"
+  // "crypto/tls"
 	"fmt"
 	. "github.com/mickael-kerjean/filestash/server/common"
 	//"github.com/secsy/goftp" <- FTP issue with microsoft FTP
